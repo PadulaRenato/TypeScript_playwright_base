@@ -1,4 +1,5 @@
 # Playwright-JS Project Setup
+This project was created for studying and experimenting with Cypress. It follows the Page Object Model (POM) structure to enhance test maintainability and reusability.
 
 ## Requirements
 
